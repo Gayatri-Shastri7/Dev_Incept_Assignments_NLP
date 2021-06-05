@@ -1,4 +1,4 @@
-# Dev_Incept_Assignments_NLP
+# Dev_Incept_NLP
 
 <h3>Pre-requisite :Git Introduction and Git Markdown</h3>
 <h5>......................................................<h5>
