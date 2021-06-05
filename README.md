@@ -61,3 +61,15 @@ Part5: Subsampling Notebook<br>
 Part6: Adding up all for Skip-Gram Model<br>
 Part7: Assignment  <br>
 </h4>
+<h5>......................................................<h5>
+<h3>Week4</h3>
+  <h4>
+    Part1: Skip-Gram Model<br>
+Part1: Skip-Gram Model Notebook<br>
+Part2 Assignment: Study T-SNE for visualization<br>
+Part3: Project: Finding Similar words in the text<br>
+Part3: Project: Finding Similar words in the text Notebook<br>
+Part4: Project: Generating tv scripts<br>
+Part4: Project: Generating tv scripts Notebook<br>
+  </h4>
+ <h5>......................................................<h5>
